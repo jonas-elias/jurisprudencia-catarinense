@@ -1,4 +1,4 @@
-# 📚 Projeto de TCC - Melhoria de Buscas de Jurisprudências
+# 📚 Projeto de TCC - Buscas de Jurisprudências
 
 Este repositório contém o código e os recursos relacionados ao projeto de Trabalho de Conclusão de Curso (TCC) que tem como objetivo apresentar uma abordagem abrangente para melhorar as buscas de jurisprudências no website do Tribunal de Justiça de Santa Catarina (TJSC).
 
