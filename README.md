@@ -4,7 +4,7 @@ Este repositório contém o código e os recursos relacionados ao projeto de Tra
 
 ## Descrição
 
-O objetivo principal deste projeto é aprimorar a eficiência e a precisão das buscas de jurisprudências disponíveis em [https://busca.tjsc.jus.br/jurisprudencia](https://busca.tjsc.jus.br/jurisprudencia) por meio de técnicas de indexação de dados em bancos vetorizados e geração de embeddings com o uso de llm`s específicos.
+O objetivo principal deste projeto é aprimorar a eficiência e a precisão das buscas de jurisprudências disponíveis em [https://busca.tjsc.jus.br/jurisprudencia](https://busca.tjsc.jus.br/jurisprudencia) por meio de técnicas de indexação de dados em bancos vetorizados e geração de embeddings com o uso de modelos de linguagem específicos.
 
 ## Etapas do Projeto
 
